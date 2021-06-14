@@ -1,0 +1,6 @@
+D:\Azure\MathOperation\MathOperation\bin\Debug\MathOperation.dll
+D:\Azure\MathOperation\MathOperation\bin\Debug\MathOperation.pdb
+D:\Azure\MathOperation\MathOperation\obj\Debug\MathOperation.csprojAssemblyReference.cache
+D:\Azure\MathOperation\MathOperation\obj\Debug\MathOperation.csproj.CoreCompileInputs.cache
+D:\Azure\MathOperation\MathOperation\obj\Debug\MathOperation.dll
+D:\Azure\MathOperation\MathOperation\obj\Debug\MathOperation.pdb
